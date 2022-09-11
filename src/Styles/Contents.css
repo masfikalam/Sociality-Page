@@ -1,0 +1,47 @@
+.contents {
+  width: 100%;
+  padding: 20px;
+}
+
+nav p {
+  display: flex;
+  margin: 20px;
+  align-items: center;
+}
+
+nav p div {
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+nav img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.contents .shadow {
+  height: 100%;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.contents .status {
+  padding: 20px;
+}
+
+.contents .icon {
+  color: white;
+  font-size: 20px;
+}
+
+.contents .post object {
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+}
+.contents .post img {
+  border-radius: 10px;
+}
